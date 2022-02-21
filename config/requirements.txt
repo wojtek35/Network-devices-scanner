@@ -1,0 +1,4 @@
+colorama==0.4.4
+files==1.1.1
+scapy==2.4.5
+win10toast==0.9
